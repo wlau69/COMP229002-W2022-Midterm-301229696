@@ -1,3 +1,10 @@
+/*
+File name: app.js
+Author's name: Lau, Wing Yan
+StudentID: 301229696
+Web App: COMP229002-W2022-Midterm-301229696
+*/
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
